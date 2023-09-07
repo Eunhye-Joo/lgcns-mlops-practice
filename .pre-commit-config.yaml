@@ -1,4 +1,4 @@
-```yaml
+yaml
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.4.0
@@ -25,4 +25,3 @@ repos:
     hooks:
       - id: black
         args: [-l 80]
-```
